@@ -8,4 +8,4 @@ A fast keystroke launcher for Windows
 * [Software Development Kit (SDK)](https://github.com/Keypirinha/SDK)
 * [Official Packages repository](https://github.com/Keypirinha/Packages)
 
-Current version: 2.16.1
+Current version: 2.16.2
